@@ -1,8 +1,8 @@
 # TextColumn
 
-#Installation
+# Installation
 ```npm i react-native-ui-text-column```
-#example
+# Example
 ```
 import React from 'react';
 import {Text, View} from 'react-native';
@@ -40,4 +40,5 @@ export default class App extends React.Component {
     }
 }
 ```
-#screenshot
+# Screenshot
+![Screenshot](https://raw.githubusercontent.com/chabibnr/react-native-ui-text-column/master/screenshot.png)
