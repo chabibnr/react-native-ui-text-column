@@ -1,0 +1,22 @@
+{
+  "name": "react-native-ui-text-column",
+  "version": "1.0.0",
+  "description": "Text Column for react-native",
+  "main": "TextColumn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chabibnr/react-native-ui-text-column.git"
+  },
+  "keywords": [
+    "Text column"
+  ],
+  "author": "Chabib Nurozak <chabibnurozak@gmail.com> (https://chabibnr.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chabibnr/react-native-ui-text-column/issues"
+  },
+  "homepage": "https://github.com/chabibnr/react-native-ui-text-column#readme"
+}
